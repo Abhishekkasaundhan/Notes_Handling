@@ -4,21 +4,21 @@
 
      Register page
 
-![register_page](https://user-images.githubusercontent.com/84410340/160284947-eeab59c8-9f1b-4e51-bf6e-3a0f295e58e3.jpeg)
-
-
+![image](https://user-images.githubusercontent.com/84410340/160285197-4f22d83d-a208-4101-b88f-42244abe889b.png)
 
 
      Login page
      
-![Login_page](https://user-images.githubusercontent.com/84410340/160285007-0ee020ae-c9de-4159-b2c5-47befc108c83.jpeg)
+![image](https://user-images.githubusercontent.com/84410340/160285283-47611171-33d1-487f-a303-73bd5ec13213.png)
 
 
 
      Notes of the user
         
-![user's_note](https://user-images.githubusercontent.com/84410340/160285066-2e24cf58-1b81-4390-836c-e25f61fae136.jpeg)
+![image](https://user-images.githubusercontent.com/84410340/160285376-09f9bdf0-948d-489c-be49-b5c791e6eaa5.png)
+
 
 
      Forgot password
-![forgot_password](https://user-images.githubusercontent.com/84410340/160285089-40a175cf-a162-4e3c-b72d-ca0930515a0a.jpeg)
+
+![image](https://user-images.githubusercontent.com/84410340/160285374-49fdc385-b268-431c-a1c1-bfa4f3c4cdaa.png)
