@@ -2,7 +2,7 @@
  An amazing Android Application with a well designed UI and it has the facility to add, update or delete the note whichever the user want. It shows the randomly different colors on every note whenever the user login or signup for notes application.
 
 
-     Rigister page
+     Register page
 
 ![register_page](https://user-images.githubusercontent.com/84410340/160284947-eeab59c8-9f1b-4e51-bf6e-3a0f295e58e3.jpeg)
 
