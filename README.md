@@ -1,5 +1,6 @@
 # Notes_App
- An amazing Android Application with a well-designed UI has the facility to add, update or delete the note whichever the user wants. It shows randomly different colors on every note whenever the user login or signup for the notes application.
+
+An amazing Android Application with a well-designed UI has the facility to add, update or delete the note whichever the user wants. It shows randomly different colors on every note whenever the user login or signup for the notes application.
 
 
      Register page
